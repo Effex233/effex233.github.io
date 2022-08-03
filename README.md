@@ -1,2 +1,57 @@
 # Абеленцев Павел
 мой сайт
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name='description' content="это моя первая страница">
+    <meta name="author" content="pavel">
+    <meta name="robots" content="index, nofollow">
+    <meta property="og:title" content="это моя первая страница">
+    
+    <title>Павел Абеленцев</title>
+</head> 
+<body>
+   <header>
+       <nav>
+           <div class="logo">Павел Абеленцев</div>
+           <div class="menu"><ul>
+               <li>Обо мне</li>
+               <li>Услуги</li>
+               <li>Кейсы</li>
+               <li>Прайс</li>
+               <li>Отзывы</li>
+               <li>Контакты</li>
+           </ul></div>
+       </nav>
+   </header> 
+   
+   <div class="main"><div class="title_container">
+      <h1>Привет <br> Павел Абеленцев</h1>
+      <h4>Фулл стек веб-разработчик</h4>
+      <input type="submit" value="Обо мне">
+      <input type="submit" value="Мои работы">
+       </div></div>
+       <img src="https://sun5.userapi.com/sun5-3/s/v1/ig2/WRtvUahxmqSf0LelVHmoJQcBX8dbIAuKNSPcP1nzDxH8HyX7TGSSzTYfS1aCs-qjkG74v5GEZ1NYRNSDKbB7ELCc.jpg?size=810x1080&quality=96&type=album" alt="ошибка">
+       
+           <div class="main"><div class="title_container">
+           <h2>Что я умею</h2>
+       
+       <div class="main"><div class="title_container">
+        <h3>Веб-дизайн</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, eum!</p>
+        
+        <div class="main"><div class="title_container">
+        <h3>Разработка</h3>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, eum!</p>
+        
+        <div class="main"><div class="title_container">
+        <h3>СЕО оптимизация</h3>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, eum!</p>
+       
+       <div class="main"><div class="title_container">
+        <h3>Маркетинг</h3>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, eum!</p>
+   
+</body>
+</html>
